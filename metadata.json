@@ -1,0 +1,6 @@
+{
+  "name": "TR Memorial English Boarding School",
+  "description": "Smart Automatic School Bell and Timetable Management System for TR Memorial English Boarding School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
